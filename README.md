@@ -1,2 +1,2 @@
 # outsystems-lecciones-spa
-Camino para aprender plataforma Outsystems, documentado para otros a quienes les pueda servir :)
+Camino para aprender plataforma Outsystems, documentado para quienes les pueda servir :)
