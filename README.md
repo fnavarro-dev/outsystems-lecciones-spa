@@ -6,4 +6,4 @@ Aprender y desarrollar una app con low-code es gratuito. ¡Cualquiera puede capa
 
 Descarga el cliente por acá: [Software Downloads | OutSystems](https://www.outsystems.com/downloads/)
 
-![outsystems_logo](https://github.com/panchojavnav/outsystems-lecciones-spa/blob/main/outsystems_logo.jpg)
+![outsystems_logo|500](https://github.com/panchojavnav/outsystems-lecciones-spa/blob/main/outsystems_logo.jpg)
